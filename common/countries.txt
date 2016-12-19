@@ -4,7 +4,7 @@
 REB 	= 	"countries/rebels.txt"
 
 ### NEW NATIONS MOD ###
-ROM		=countries/RomanEmpire.txt
+RMN		=countries/RomanEmpire.txt
 
 ##HPM
 MNP		="countries/Manipur.txt"
