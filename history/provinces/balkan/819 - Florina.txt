@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = RMN
+controller = RMN
 add_core = RMN
 trade_goods = coal
 life_rating = 35
