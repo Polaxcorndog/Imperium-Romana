@@ -14,3 +14,5 @@ Conquer Athens
 Genoa holds on to Sardinia and corsica
 
 spanish did not inherit Milan, SP owned it, and italians remained out of Napoleonic wars.
+
+Mamluks survive, expand a little.
