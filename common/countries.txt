@@ -3,8 +3,11 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
-### NEW NATIONS MOD ###
+### Phoenix Rising ###
 RMN		=countries/RomanEmpire.txt
+GEN   =countries/Genoa.txt
+RUM   =countries/SultanateofRum.txt
+### NEW NATIONS MOD ###
 
 ##HPM
 MNP		="countries/Manipur.txt"
