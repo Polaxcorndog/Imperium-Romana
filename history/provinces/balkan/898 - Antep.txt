@@ -1,6 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = TUR
+owner = CLC
+controller = CLC
 add_core = CLC
 add_core = KDS
 trade_goods = wool
