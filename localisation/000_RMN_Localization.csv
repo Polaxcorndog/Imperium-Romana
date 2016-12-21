@@ -26,3 +26,7 @@ GEN_democracy;Republic of Genoa;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GEN_proletarian_dictatorship;People's Republic of Genoa;;;;;;;;;;;;;x
 RUM;Sultanate of Rum;;;;;;;;;;;;;;;;;;;;x
 RUM_ADJ;Rum;;;;;;;;;;;;;;;;x
+EGY;Mamluk Sultanate;;;;;;;;;;;;;;;;;;;;x
+EGY_ADJ;Mamluk;;;;;;;;;;;;;;;;x
+EGY_democracy;Egypt;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+EGY_theocracy;The Caliphate;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
