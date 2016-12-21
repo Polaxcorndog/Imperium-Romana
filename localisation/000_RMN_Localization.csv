@@ -20,3 +20,7 @@ VEN_communist;Rivoluzionari;Rivoluzionari;Rivoluzionari;;Rivoluzio nari;;;;;;;;;
 VEN_reactionary_2;Cattolici;Cattolici;Cattolici;;C attolici;;;;;;;;;x
 VEN_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
 VEN_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
+GEN;Genoa;;;;;;;;;;;;;;;;;;;;x
+GEN_ADJ;Genoese;;;;;;;;;;;;;;;;x
+GEN_democracy;Republic of Genoa;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GEN_proletarian_dictatorship;People's Republic of Genoa;;;;;;;;;;;;;x
