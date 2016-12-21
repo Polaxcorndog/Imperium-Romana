@@ -4,8 +4,9 @@
 REB 	= 	"countries/rebels.txt"
 
 ### Phoenix Rising ###
-RMN     ="countries/RomanEmpire.txt"
+RMN   ="countries/RomanEmpire.txt"
 GEN		="countries/Genoa.txt"
+RUM   ="countries/Rum.txt"
 ### NEW NATIONS MOD ###
 
 ##HPM
