@@ -17,6 +17,6 @@ spanish did not inherit Milan, SP owned it, and italians remained out of Napoleo
 
 Mamluks survive, expand a little into collapsing ilkhanate and aq qonyulo 
 
-Armenians instead of being conquered by mamluks in 1375, ask romans for protection
+Cilician Armenians instead of being conquered by mamluks in 1375, ask romans for protection
 
 Trebizon Survives in northern anatolia, civil war with romans Nat and IMp
