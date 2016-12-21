@@ -15,4 +15,8 @@ Genoa holds on to Sardinia and corsica
 
 spanish did not inherit Milan, SP owned it, and italians remained out of Napoleonic wars.
 
-Mamluks survive, expand a little.
+Mamluks survive, expand a little into collapsing ilkhanate and aq qonyulo 
+
+Armenians instead of being conquered by mamluks in 1375, ask romans for protection
+
+Trebizon Survives in northern anatolia, civil war with romans Nat and IMp
