@@ -8,3 +8,14 @@ RMN_democracy;Roman Republic;;;;;;;;;;;;;;;;;;;;;;;;;x
 RMN_bourgeois_dictatorship;Roman Free States;;;;;;;;;;;;;x
 RMN_proletarian_dictatorship;United Roman Socialist States;;;;;;;;;;;;;x
 RMN_fascist_dictatorship;Roman Empire;;;;;;;;;;;;x
+VEN;Venice;;;;;;;;;;;;;;;;;;;;x
+VEN_ADJ;Venitian;;;;;;;;;;;;;;;;x
+VEN_democracy;Republic of Venice;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VEN_reactionary;Monarchici;Monarchici;Monarchici;;Monarchici;;;;;;;;;x
+VEN_liberal;Intransigenti;Intransigenti;Intransige nti;;Intransigenti;;;;;;;;;x
+VEN_conservative;Transigenti;Transigenti;Transigen ti;;Transigenti;;;;;;;;;x
+VEN_socialist;Socialisti;Socialisti;Socialisti;;So cialisti;;;;;;;;;x
+VEN_communist;Rivoluzionari;Rivoluzionari;Rivoluzionari;;Rivoluzio nari;;;;;;;;;x
+VEN_reactionary_2;Cattolici;Cattolici;Cattolici;;C attolici;;;;;;;;;x
+VEN_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
+VEN_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
