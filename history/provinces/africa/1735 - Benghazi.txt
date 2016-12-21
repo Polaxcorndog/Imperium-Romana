@@ -1,4 +1,5 @@
 owner = EGY
+controller = EGY
 add_core = CYR
 add_core = EGY
 trade_goods = fruit
