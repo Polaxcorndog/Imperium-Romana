@@ -57,18 +57,20 @@ country_event = {
 	option = {
 		name = "EVT5436OPTA"
 		set_global_flag = invasion_of_rum
-		prestige = -25
 		relation = {
-			who = EGY
+			who = RMN
 			value = -100
 		}
+		RMN = {
+			inherit = CLC
+		}
 		casus_belli = {
-			target = CLC
+			target = RMN
 			type = annex_core_country
 			months = 12
 		}
 		war = {
-			target = CLC
+			target = RMN
 			attacker_goal = { casus_belli = annex_core_country }
 		}
 		ai_chance = {
