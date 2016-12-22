@@ -1,6 +1,7 @@
 owner = CLC
 controller = CLC
 add_core = CLC
+add_core = RUM
 add_core = KDS
 trade_goods = wool
 life_rating = 35
