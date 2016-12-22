@@ -89,7 +89,7 @@ country_event = {
 				issue = jingoism
 				factor = 6
 			}
-		}			
+		}
 		CLC = { country_event = 5437 }
 		ai_chance = {
 			factor = 5
@@ -109,17 +109,96 @@ country_event = {
 	option = {
 		name = "EVT5437OPTA"
 		prestige = 10
-		relation = { who = RUM value = 100 }
-		any_owned = {
-			limit = {
-					region = TUR_894
-				}
-			}
-			remove_core = RUM
+		relation = { who = RUM value = 200 }
+		895 = { remove_core = RUM }
+		894 = { remove_core = RUM }
+		896 = { remove_core = RUM }
+		898 = { remove_core = RUM }
+		899 = { remove_core = RUM }
+		889 = { remove_core = RUM }
+		893 = { remove_core = RUM }
+		899 = { add_core = CLC }
+		889 = { add_core = CLC }
+		893 = { add_core = CLC }
+		RUM = { country_event = 5440 }
+			ai_chance = {
+			factor = 20
+			}	
 		}
 	option = {
 		name = "EVT5437OPTB"
 		prestige = -5
 		RUM = { country_event = 5439 }
+			ai_chance = {
+			factor = 80
+			}	
+		}
+	}
+
+
+country_event = {
+	id = 5440
+	title = "Cilicians Accept" #Cilician Deal
+	desc = "The Ciclicians submit to Rum rule"
+	picture = "ottoman"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "We rule Anatolia!"
+		create_vassal = CLC
+		prestige = 15
+		any_owned = {
+			limit = {
+				OR = {
+					region = TUR_893
+				}
+				is_core = CLC
+			}
+			secede_province = CLC
+		}
+		RMN = { country_event = 5441 }
 	}
 }
+		
+country_event = {
+	id = 5441
+	title = "Cilicians Betray Us!" #Roman Response
+	desc = "The Ciclicians submit to Rum rule, and abandon the true Roman Empire. We must show them our might!"
+	picture = "caucasian_war"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "This is an act of war! We will restore order!"
+		war = {
+			target = RUM
+			attacker_goal = { casus_belli = conquest }
+			badboy = 5
+		}
+		ai_chance = {
+		factor = 95
+		}	
+	}
+	option = {
+		name = "Abandon Anatolia!"
+		presitge = -25
+		any_owned = {
+			limit = {
+				OR = {
+					region = TUR_869
+					region = TUR_863
+				}
+				is_core = RMN
+			}
+			remove_core = RMN
+			add_core = RUM
+			secede_province = RUM
+		}
+		ai_chance = {
+		factor = 5
+		}	
+	}
+}
+		
+		
