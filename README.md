@@ -20,3 +20,8 @@ Mamluks survive, expand a little into collapsing ilkhanate and aq qonyulo
 Cilician Armenians instead of being conquered by mamluks in 1375, ask romans for protection
 
 Trebizon Survives in northern anatolia, civil war with romans Nat and IMp
+
+Mamluks fight ilkhanate for iraq, with assistance from venice in exchange for cyprus.
+
+Mamluks lose to Safavid, lose iraq in war.
+
