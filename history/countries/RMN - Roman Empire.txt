@@ -46,7 +46,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = istanbul_named_constantinople
+set_country_flag = istanbul_renamed
 
 # Technologies
 post_napoleonic_thought = 1
