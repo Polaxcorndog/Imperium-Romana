@@ -1,5 +1,6 @@
 owner = CLC
 controller = CLC
 add_core = CLC
+add_core = RUM
 trade_goods = fish
 life_rating = 35
