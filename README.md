@@ -2,12 +2,9 @@ https://en.wikipedia.org/wiki/Byzantine%E2%80%93Venetian_War_(1296%E2%80%931302)
 
 In 1294 the [Venetian-Genoese War](https://en.wikipedia.org/wiki/Venetian%E2%80%93Genoese_Wars) began, was a conflict between the two republics. Genoa was dominating the seas of Venice, and the situation was dire for Venice. The venetians and the genoese war seemed inconclusive, while in Constantinople in 1296 the genoses residents destroyed the Venetian quarter, and killed many Venetian civilians. The Roman Emperor Andronikos II Palaiologos refused to let this slide, and siezed the genoese territories. The genoese civilians were expelled from Constantinople, and permanantly banished from the empire. The Venetians were able to gain the upper hand on Genoa, due to strife in their home country. The war was ended in 1299 with a compromise between the two republics. Venice was greatful for the Roman swift action on the genoese, and set up many trade agreements that benefitted the two nations. 
 
-In 1302 The Romans launched a campaing against the independent Beyliks of Osman due to the numerous raids. At the [Battle of Bapheus](https://en.wikipedia.org/wiki/Battle_of_Bapheus) the Romans were victorious, and wiped out Osman's army, capturing and killing Osman I himself. Here the Romans continued their expansion into Ottoman territory, and the majority of the western anatolia, while the Sultanate of Rum managed to keep a hold of the interior of anatolia. By 1308 the Roman Empire had a strong hold on its half of
+In 1302 The Romans launched a campaing against the independent Beyliks of Osman due to the numerous raids. At the [Battle of Bapheus](https://en.wikipedia.org/wiki/Battle_of_Bapheus) the Romans were victorious, and wiped out Osman's army, capturing and killing Osman I himself. Here the Romans continued their expansion into Ottoman territory, and the majority of the western anatolia, while the Sultanate of Rum managed to keep a hold of the interior of anatolia. By 1308 the Roman Empire had a strong hold on the western half of anatolia. 
 
-
-Byzantines conquer ottomans, and other little states
-
-securing half of anatolia border with rum
+In 1306 The Queen Regent of the Despot of Epirus revolted from the Neoplolitan rule, and favored to be under The Roman Empire. The revolt lasted in 1312, and thats when naples surrendered all their claims in Greece. In 1337 Andronikos III revoked the vassal status of the Despot of Epirus, and by 1340 it was reigned in, and the King deposed.
 
 Conquer Epirus
 
