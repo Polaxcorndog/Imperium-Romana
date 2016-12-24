@@ -1,0 +1,151 @@
+CLC = {
+	value = 200
+	level = 5
+	influence_value = 100
+}
+
+MON = {
+	value = 200
+	level = 5
+	influence_value = 100
+}
+
+army = {
+	name = "Proto Aftokratorikó Strató"
+	location = 860
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = guard
+		home = 860
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = guard
+		home = 860
+	}
+	
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = guard
+		home = 860
+	}
+	
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = guard
+		home = 860
+	}
+	
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = guard
+		home = 860
+	}
+
+	regiment = {
+		name= "1. Taxiarchía Ippikoú"
+		type = dragoon
+		home = 861
+	}
+	
+	regiment = {
+		name= "2. Taxiarchía Ippikoú"
+		type = dragoon
+		home = 863
+	}
+	
+	regiment = {
+		name= "1. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 859
+	}
+	
+	regiment = {
+		name= "2. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 828
+	}
+	
+	regiment = {
+		name= "3. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 805
+	}
+	
+	regiment = {
+		name= "4. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 832
+	}
+}
+
+army = {
+	name = "Deftero Aftokratoriko Strato"
+	location = 836
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = infantry
+		home = 824
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = infantry
+		home = 824
+	}
+	
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = infantry
+		home = 837
+	}
+	
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = infantry
+		home = 836
+	}
+	
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = infantry
+		home = 835
+	}
+
+	regiment = {
+		name= "1. Taxiarchía Ippikoú"
+		type = dragoon
+		home = 838
+	}
+	
+	regiment = {
+		name= "2. Taxiarchía Ippikoú"
+		type = dragoon
+		home = 834
+	}
+	
+	regiment = {
+		name= "1. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 834
+	}
+	
+	regiment = {
+		name= "2. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 840
+	}
+	
+	regiment = {
+		name= "3. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 839
+	}
+	
+	regiment = {
+		name= "4. Pyrovolikó Taxiarchía"
+		type = artillery
+		home = 839
+	}
+}
