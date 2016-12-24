@@ -774,13 +774,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 200
+		size = 1200
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 17400
+		size = 16400
 	}
 
 	clergymen = {
@@ -904,13 +904,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 350
+		size = 1350
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 29550
+		size = 28550
 	}
 
 	clergymen = {
@@ -1230,13 +1230,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 1050
+		size = 4050
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 88475
+		size = 85475
 	}
 
 	clergymen = {
@@ -1304,13 +1304,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 500
+		size = 1500
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 43025
+		size = 42025
 	}
 
 	clergymen = {
@@ -1372,13 +1372,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 525
+		size = 1525
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 44025
+		size = 43025
 	}
 
 	clergymen = {
@@ -1436,13 +1436,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 1000
+		size = 2000
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 48125
+		size = 47125
 	}
 
 	clergymen = {
@@ -1504,13 +1504,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 325
+		size = 1325
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 27200
+		size = 26200
 	}
 
 	clergymen = {
@@ -1572,13 +1572,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 250
+		size = 2250
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 107225
+		size = 105225
 	}
 
 	clergymen = {
@@ -1646,13 +1646,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 1000
+		size = 2000
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 40700
+		size = 39700
 	}
 
 	clergymen = {
@@ -1728,13 +1728,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 750
+		size = 1750
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 66825
+		size = 65825
 	}
 
 	clergymen = {
@@ -1778,13 +1778,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 250
+		size = 1250
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 21125
+		size = 20125
 	}
 
 	clergymen = {
@@ -2048,13 +2048,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 700
+		size = 2700
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 45350
+		size = 43350
 	}
 
 	clergymen = {
@@ -2152,13 +2152,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 575
+		size = 2575
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 39200
+		size = 37200
 	}
 
 	clergymen = {
@@ -2356,13 +2356,13 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 100
+		size = 1100
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 21175
+		size = 20175
 	}
 
 	clergymen = {
@@ -2866,7 +2866,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 250
+		size = 1250
 	}
 
 	farmers = {
@@ -2890,7 +2890,7 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 20750
+		size = 19750
 	}
 
 	clergymen = {
