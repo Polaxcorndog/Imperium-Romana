@@ -11,7 +11,7 @@ MON = {
 }
 
 army = {
-	name = "Proto Aftokratorikó Strató"
+	name = "Proto Strató"
 	location = 860
 	regiment = {
 		name= "1. Taxiarchia Pezikou"
@@ -68,9 +68,9 @@ army = {
 	}
 	
 	regiment = {
-		name= "3. Pyrovolikó Taxiarchía"
+		name= "2. Pyrovolikó Taxiarchía"
 		type = artillery
-		home = 805
+		home = 849
 	}
 	
 	regiment = {
@@ -81,7 +81,7 @@ army = {
 }
 
 army = {
-	name = "Deftero Aftokratoriko Strato"
+	name = "Deftero Strato"
 	location = 836
 	regiment = {
 		name= "1. Taxiarchia Pezikou"
@@ -92,7 +92,7 @@ army = {
 	regiment = {
 		name= "2. Taxiarchia Pezikou"
 		type = infantry
-		home = 824
+		home = 853
 	}
 	
 	regiment = {
