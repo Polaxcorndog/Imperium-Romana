@@ -1,5 +1,5 @@
 army = {
-	name = "Roma Imparatorluk Muhafızları"
+	name = "Ilk Imparatorluk Ordusu"
 	location = 873
 	regiment = {
 		name= "1. Bostancy-yy Hassa"
