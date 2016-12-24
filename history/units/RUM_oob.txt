@@ -120,13 +120,13 @@ army = {
 	}
 	
 	regiment = {
-		name= "1. Piyade Tümeni"
+		name= "2. Piyade Tümeni"
 		type = artillery
 		home = 885
 	}
 	
 	regiment = {
-		name= "1. Piyade Tümeni"
+		name= "3. Piyade Tümeni"
 		type = artillery
 		home = 893
 	}
