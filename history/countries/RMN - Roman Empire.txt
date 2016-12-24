@@ -48,6 +48,8 @@ upper_house = {
 
 set_country_flag = istanbul_renamed
 
+oob = "RMN_oob.txt"
+
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
