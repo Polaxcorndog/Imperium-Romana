@@ -16,6 +16,9 @@ During [John V Palaiologos](https://en.wikipedia.org/wiki/John_V_Palaiologos) re
 [Manuel II Palaiologos](https://en.wikipedia.org/wiki/Manuel_II_Palaiologos) came to power he was able to strong arm himself into the position posing as king regent for John VII son.
 
 
+need to do pops for constanta and tulcea in romania (remove turk)
+
+Redo SER pops, and BOS pops.
 
 Genoa holds on to Sardinia and corsica
 
