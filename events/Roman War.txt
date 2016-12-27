@@ -62,26 +62,11 @@ country_event = {
 			value = -100
 		}
 		RMN = {
-			inherit = CLC
-		}
-		casus_belli = {
-			target = RMN
-			type = acquire_core_state
-			months = 12
-		}
-		war = {
-		target = RMN
-			attacker_goal = {
-				casus_belli = acquire_core_state
-				state_province_id  = 894
-				}
-			defender_goal = {
-				casus_belli = conquest
-			}
-		}
+			country_event = 5442
 		}
 		ai_chance = {
-			factor = 95
+			factor = 80
+		}
 		}
 	
 
@@ -96,7 +81,7 @@ country_event = {
 		}
 		CLC = { country_event = 5437 }
 		ai_chance = {
-			factor = 5
+			factor = 20
 		}
 	}
 
@@ -139,7 +124,26 @@ country_event = {
 		}
 	}
 
-
+country_event = {
+	id = 5439
+	title = "The Cilicians Deny The Deal" #Cilician Deal Denial
+	desc = "The Ciclicians refuse our deal, we must show them our might!"
+	picture = "ahmet_muhtar_pasa_sanaa"
+	
+	is_triggered_only = yes
+	
+	option = {
+			name = "So be it."
+			relation = {
+			who = RMN
+			value = -100
+		}
+		RMN = {
+			country_event = 5442
+		}
+	}
+}
+	
 country_event = {
 	id = 5440
 	title = "Cilicians Accept" #Cilician Deal
@@ -152,6 +156,13 @@ country_event = {
 		name = "We rule Anatolia!"
 		create_vassal = CLC
 		prestige = 15
+		any_country = {
+			limit = { is_greater_power = yes }					
+			diplomatic_influence = {
+				who = CLC
+				value = -200
+			}
+		}
 		any_owned = {
 			limit = {
 				OR = {
@@ -174,16 +185,24 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "This is an act of war! We will restore order!"
-		war = {
-			target = RUM
-			attacker_goal = { casus_belli = conquest }
-			badboy = 5
+			name = "Roma Invicta"
+			relation = {
+			who = RMN
+			value = -100
 		}
-		ai_chance = {
-		factor = 95
-		}	
+		war = {
+		target = RUM
+			attacker_goal = {
+				casus_belli = conquest
+				}
+			defender_goal = {
+				casus_belli = conquest
+				}
+		}
 	}
+		ai_chance = {
+		factor = 80
+		}	
 	option = {
 		name = "Abandon Anatolia!"
 		presitge = -25
@@ -200,9 +219,38 @@ country_event = {
 			secede_province = RUM
 		}
 		ai_chance = {
-		factor = 5
+		factor = 20
 		}	
 	}
 }
+	
 		
-		
+country_event = {
+	id = 5442
+	title = "The Cilicians Attacked!" #Cilician Deal Denial
+	desc = "The Rum challange our authority in Anatolia, we must show them the power of Rome!"
+	picture = "spanish_moroccan_war"
+	
+	is_triggered_only = yes
+	
+	option = {
+			name = "Roma Invicta"
+		RMN = {
+			inherit = CLC
+		}
+		casus_belli = {
+			target = RMN
+			type = acquire_core_state
+			months = 12
+		}
+		war = {
+		target = RUM
+			attacker_goal = {
+				casus_belli = conquest
+				}
+			defender_goal = {
+				casus_belli = conquest
+				}
+		}
+	}
+}	
